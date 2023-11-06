@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package com.ranjitswain;
+package com.rajeshaachari;
 
 /**
  * A typical simple backing bean, that is backed to <code>devOps.jsp</code>
